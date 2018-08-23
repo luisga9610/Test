@@ -7,7 +7,6 @@ public class Test {
 	System.out.println(Operaciones.MULTIPLICACION);
 	System.out.println(Operaciones.SUMA.getvalor());
 	System.out.println(Operaciones.RESTA.name());
-	}
-	
+	}	
 	
 }
